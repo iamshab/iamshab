@@ -1,7 +1,4 @@
-# Shahab Aghaei — Resume
-
-This repository contains the latest version of my professional resume, focused on ICT infrastructure, cybersecurity, networking, and IT operations management.
-
+# Hi, I'm Shab Aghaei 👋
 ## Resume Versions
 
 - [Download PDF](./resume.pdf)
